@@ -1,4 +1,4 @@
-﻿namespace Cards.Wildcard
+﻿namespace Assets.Scripts.Cards.Wildcard
 {
     
     public enum WildcardType

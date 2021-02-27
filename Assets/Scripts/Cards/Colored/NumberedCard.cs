@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cards.Colored
+namespace Assets.Scripts.Cards.Colored
 {
 
     public class NumberedCard : ColoredCard

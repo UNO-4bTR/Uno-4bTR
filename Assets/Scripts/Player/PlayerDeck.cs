@@ -1,4 +1,4 @@
-﻿namespace Player
+﻿namespace Assets.Scripts.Player
 {
     
     public class PlayerDeck

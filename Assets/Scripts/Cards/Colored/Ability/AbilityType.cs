@@ -1,4 +1,4 @@
-﻿namespace Cards.Colored.Ability
+﻿namespace Assets.Scripts.Cards.Colored.Ability
 {
     
     public enum AbilityType

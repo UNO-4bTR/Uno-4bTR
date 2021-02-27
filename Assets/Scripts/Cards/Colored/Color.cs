@@ -1,4 +1,4 @@
-﻿namespace Cards.Colored
+﻿namespace Assets.Scripts.Cards.Colored
 {
     
     public enum Color
